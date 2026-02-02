@@ -1,0 +1,13 @@
+menu_item_id,name,price,status,category_id
+1,Spring rolls,50.00,Available,1
+2,Samosas,60.00,Unavailable,1
+3,Sweet Corn Soup,150.00,Available,2
+4,Caesar Salad,100.00,Available,2
+5,Biryani,250.00,Available,3
+6,White Karahi,200.00,Unavailable,3
+7,Mashed Potatoes,80.00,Available,4
+8,Shami Kebab,30.00,Unavailable,4
+9,Ice cream,70.00,Available,5
+10,Cup Cake,60.00,Available,5
+11,Coke,100.00,Available,6
+12,Coffee,120.00,Unavailable,6

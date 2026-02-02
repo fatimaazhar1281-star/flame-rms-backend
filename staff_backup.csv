@@ -1,0 +1,5 @@
+staff_id,user_id,name,phone,job_role
+1,2,Hamza,123456,Manager
+2,3,Akmal,345677,Waiter
+3,4,Tahir,654322,Cashier
+4,5,Subhan,876545,Cook

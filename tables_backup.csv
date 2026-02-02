@@ -1,0 +1,7 @@
+table_id,table_no,capacity,status
+1,1,2,Free
+2,2,3,Free
+3,3,4,Occupied
+4,4,6,Free
+5,8,5,Free
+6,9,12,Occupied
